@@ -1,9 +1,9 @@
 ## IN PROGRESS
 
 ## TODO
-~~1. Add a box type~~
-~~2. Show box types~~
-~~3. Load box to container~~
+1. ~~Add a box type~~
+2. ~~Show box types~~
+3. ~~Load box to container~~
 4. Show container
 5. Summary Report
 
